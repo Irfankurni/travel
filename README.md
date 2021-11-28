@@ -21,6 +21,7 @@ Clone the repository and run the following commands:
 flutter pub get
 flutter run
 ```
+Design Credit : [BuildWithAngga](https://pixel.buildwithangga.com/details/travel-app-mobile)
 
 ## Screenshot
 
