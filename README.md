@@ -26,4 +26,4 @@ flutter run
 
 ![Screenshot (1)](https://user-images.githubusercontent.com/19315474/143768106-f8c2e303-4a61-411f-96b6-436e80611cc3.png)
 
-![Screenshot (2)](https://user-images.githubusercontent.com/19315474/143768165-e6650f23-7f88-4826-a394-beadbcd7ce8e.png)
+![Screenshot (3)](https://user-images.githubusercontent.com/19315474/143768846-d6768b79-a83d-451d-8fa5-34f3b00940fc.png)
